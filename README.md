@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Frances Laureano, I am a first year PhD student at the University of Birmingham, UK.
-- 👀 I’m interested in natural language processing (NLP). In particular, I am interested in multilingual word-embeddings, sentiment analysis, fake news and hatespeech detection.
-- 🌱 I’m currently learning how to better use transformers for projects in NLP
-- 💞️ I’m looking to collaborate on projects using NLP, as well as working on applications of NLP for social science and business.  
-- 📫 I can be reached at fxl846[@]cs.bham.ac.uk. For more information on projects visit my website: franceslaureano.com
+### 👋 Hi, I'm Frances Laureano De Leon!
+
+I'm a **Research Fellow at Centre-UB, University of Birmingham, UK**, working at the intersection of **Natural Language Processing (NLP), multilingual AI, and language model understanding**.
+
+🔬 **Research interests:** I'm particularly interested in understanding how language models represent, process, and reason across languages and modalities, with a focus on multilingual and code-mixed settings.
+
+🤝 **Collaborations:** I'm interested in interdisciplinary research that connects NLP with the social sciences and behavioural research, as well as projects exploring the capabilities and limitations of language models.
+
+📫 **Get in touch:** [f.a.a.laureanodeleon@bham.ac.uk](mailto:f.a.a.laureanodeleon@bham.ac.uk)
+
+🌐 **Website:** [franceslaureano.com](https://franceslaureano.com)
+
+📚 **Research:** [Google Scholar](https://scholar.google.com/citations?user=QSCR42MAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/frances-laureano-de-leon/)
 
 <!---
 francesita/francesita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
